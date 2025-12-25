@@ -1,0 +1,21 @@
+# Carpetas de compilación y binarios
+bin/
+obj/
+
+# Archivos de usuario y configuración del IDE (Visual Studio / VS Code)
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales de sistema
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Paquetes NuGet
+*.nupkg
+pkg/
