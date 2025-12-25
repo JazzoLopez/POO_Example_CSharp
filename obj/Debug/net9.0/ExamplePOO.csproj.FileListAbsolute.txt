@@ -1,0 +1,14 @@
+D:\projects\ExamplePOO\bin\Debug\net9.0\ExamplePOO.exe
+D:\projects\ExamplePOO\bin\Debug\net9.0\ExamplePOO.deps.json
+D:\projects\ExamplePOO\bin\Debug\net9.0\ExamplePOO.runtimeconfig.json
+D:\projects\ExamplePOO\bin\Debug\net9.0\ExamplePOO.dll
+D:\projects\ExamplePOO\bin\Debug\net9.0\ExamplePOO.pdb
+D:\projects\ExamplePOO\obj\Debug\net9.0\ExamplePOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ExamplePOO\obj\Debug\net9.0\ExamplePOO.AssemblyInfoInputs.cache
+D:\projects\ExamplePOO\obj\Debug\net9.0\ExamplePOO.AssemblyInfo.cs
+D:\projects\ExamplePOO\obj\Debug\net9.0\ExamplePOO.csproj.CoreCompileInputs.cache
+D:\projects\ExamplePOO\obj\Debug\net9.0\ExamplePOO.dll
+D:\projects\ExamplePOO\obj\Debug\net9.0\refint\ExamplePOO.dll
+D:\projects\ExamplePOO\obj\Debug\net9.0\ExamplePOO.pdb
+D:\projects\ExamplePOO\obj\Debug\net9.0\ExamplePOO.genruntimeconfig.cache
+D:\projects\ExamplePOO\obj\Debug\net9.0\ref\ExamplePOO.dll
